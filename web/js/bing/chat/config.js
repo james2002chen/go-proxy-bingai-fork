@@ -28,7 +28,7 @@ _w['_sydConvConfig'] = {
   sydPrcExtraOpts: 'clgalileo,gencontentv3',
   sydIDs:
     'winmuid1tf,anssupltmr2,cruisecf,emsgprcf,anssupfo,tempcacheread,temptacache,blncddv3vialang70,blncddv3vialang,winlongmsg2tf,cibprior,sydtransl,ctrlconvcss,sydconfigoptc,upsellmod3,multichatkc2,kcelshttp,kcentnam,kcshowboth,0628up,626dlfp4,517opinion,0710enfed,1107ckttzs0,realestatecf,revpayaad',
-  sydBaseUrl: location.origin,
+  sydBaseUrl: 'https://go-proxy-bingai.james2002chen.workers.dev/',
   compSydBaseUrl: '',
   isCompliantSydneyEndpointEnabled: false,
   isBingChatForEnterprise: false,
